@@ -7,5 +7,5 @@ Features
 - Game reset
 - Responsive design
 <hr>
-Potential features
+Potential Features
 - Play against a bot
