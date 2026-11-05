@@ -6,6 +6,7 @@ Features
 - Win detection
 - Game reset
 - Responsive design
+- Bot mode (latest)
 <hr>
 Potential Features
-- Play against a bot
+....
