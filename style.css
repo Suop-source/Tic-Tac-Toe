@@ -67,6 +67,8 @@ option, select {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 5em;
+    font-family: sans-serif, arial;
 }
 
 .cell:hover {
